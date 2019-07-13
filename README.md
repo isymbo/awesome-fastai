@@ -40,7 +40,8 @@ A personal curated list for learning fast.ai and the related
 
 ### Tutorials
 
-1. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
+1. [Official Pytorch Tutorial](https://pytorch.org/tutorials/)
+2. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
 
 
 ### WebSites
