@@ -19,6 +19,7 @@ A personal curated list for learning fast.ai and the related
 * **[Frameworks](#frameworks)**  
 
 * **[Tools](#tools)**  
+ * *[Research Paper](#research-paper)*
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -51,8 +52,7 @@ A personal curated list for learning fast.ai and the related
 1. [fast.ai](https://www.fast.ai/)
 2. [Machine Learning Explained](https://mlexplained.com/) Deep learning, python, data wrangling and other machine learning related topics explained for practitioners
 3. [lyrn.ai](https://www.lyrn.ai/) DEEP LEARNING EXPLAINED
-
-
+4. [Papers with Code](https://paperswithcode.com/) a free and open resource with Machine Learning papers, code and evaluation tables
 
 
 ### Datasets
@@ -64,6 +64,10 @@ A personal curated list for learning fast.ai and the related
 
 ### Tools
 
+#### Research Paper
+1. [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) Built in spare time by @karpathy to accelerate research
+2. [Deep Learning Monitor](https://deeplearn.org/) help you to focus on your own research while monitoring the research field you care about
+3. [SciHive](www.scihive.org) a free, open-source tool that is built by researchers for researchers
 
 ### Miscellaneous
 
