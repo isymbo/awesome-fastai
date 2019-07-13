@@ -38,6 +38,7 @@ A personal curated list for learning fast.ai and the related
 	* [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
 2.  [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 	* [Paper Dissected: “Attention is All You Need” Explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
+	* [Attention Augmented Convolutional Networks](https://www.lyrn.ai/2019/05/03/attention-augmented-convolutional-networks/)
 
 ### Tutorials
 
