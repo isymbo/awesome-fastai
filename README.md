@@ -19,7 +19,7 @@ A personal curated list for learning fast.ai and the related
 * **[Frameworks](#frameworks)**  
 
 * **[Tools](#tools)**  
- * *[Research Paper](#research-paper)*
+  * *[Research Paper](#research-paper)*
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -37,9 +37,15 @@ A personal curated list for learning fast.ai and the related
 	* [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 	* [Paper Dissected: “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding” Explained](http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/)
 	* [BERT – State of the Art Language Model for NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)
+	* [in Chinese: 从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 2.  [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 	* [Paper Dissected: “Attention is All You Need” Explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/)
 	* [Attention Augmented Convolutional Networks](https://www.lyrn.ai/2019/05/03/attention-augmented-convolutional-networks/)
+3. [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb)
+	* [Fantastic Embedding](https://medium.com/@fishlovebanana/fantastic-embedding-bbd37c32ca1f)	
+	* [in Chinese: 不一样的论文解读2018 KDD best paper: Embeddings at Airbnb](https://zhuanlan.zhihu.com/p/49537461)
+4. [BERT4Rec: Sequential Recommendation with Bidirectional
+Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf)
 
 ### Tutorials
 
@@ -64,7 +70,7 @@ A personal curated list for learning fast.ai and the related
 
 ### Tools
 
-#### Research Paper
+##### Research Paper
 1. [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) Built in spare time by @karpathy to accelerate research
 2. [Deep Learning Monitor](https://deeplearn.org/) help you to focus on your own research while monitoring the research field you care about
 3. [SciHive](www.scihive.org) a free, open-source tool that is built by researchers for researchers
