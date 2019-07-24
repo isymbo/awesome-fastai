@@ -19,7 +19,8 @@ A personal curated list for learning fast.ai and the related
 * **[Frameworks](#frameworks)**  
 
 * **[Tools](#tools)**  
-  * *[Research Paper](#research-paper)*
+  * *[Research Papers](#research-papers)*
+  * *[Cheat Sheets](#cheat-sheets)*
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -70,10 +71,17 @@ Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf)
 
 ### Tools
 
-##### Research Paper
+##### Research Papers
 1. [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) Built in spare time by @karpathy to accelerate research
 2. [Deep Learning Monitor](https://deeplearn.org/) help you to focus on your own research while monitoring the research field you care about
 3. [SciHive](www.scihive.org) a free, open-source tool that is built by researchers for researchers
+4. [IMPORT AI](https://jack-clark.net/) Import AI is a weekly newsletter about artificial intelligence
+
+##### Cheat Sheets
+1. [Python Cheatsheet](https://www.pythonsheets.com/)
+2. [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+3. [Data Science Cheatsheets](https://www.datacamp.com/community/data-science-cheatsheets)
+4. [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
 ### Miscellaneous
 
